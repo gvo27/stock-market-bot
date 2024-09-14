@@ -1,2 +1,4 @@
 /venv
 /.misc
+/src/polygon/polygon_key.json
+/data
